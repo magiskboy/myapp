@@ -1,0 +1,3 @@
+registers = [
+    ("/account", "account"),
+]

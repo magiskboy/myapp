@@ -1,0 +1,5 @@
+starlette==0.25.0
+uvicorn[standard]==0.20.0
+PyYAML==6.0
+databases[asyncpg]==0.7.0
+sqlalchemy==1.4.42
